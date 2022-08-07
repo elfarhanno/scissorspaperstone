@@ -72,8 +72,3 @@ var main = function (input) {
     timesComputerWin
   );
 };
-var normalSPS = function (userName, input) {
-  var output = "";
-
-  return message;
-};
